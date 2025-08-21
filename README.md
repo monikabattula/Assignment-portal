@@ -62,7 +62,7 @@ A modern, full-stack web application for managing assignment submissions between
 1. **Clone the repository**
    ```bash
    git clone https://github.com/monikabattula/Assignment-portal.git
-   cd Assignment-Portal-Frontend
+   cd Assignment-portal
    ```
 
 2. **Install dependencies**
