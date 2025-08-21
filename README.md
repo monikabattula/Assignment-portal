@@ -61,7 +61,7 @@ A modern, full-stack web application for managing assignment submissions between
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SRR23/Assignment-Portal-Frontend.git
+   git clone https://github.com/monikabattula/Assignment-portal.git
    cd Assignment-Portal-Frontend
    ```
 
